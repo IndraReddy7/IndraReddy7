@@ -81,8 +81,7 @@ indra = {
 
 ![AWS](https://img.shields.io/badge/AWS_Certified-Data_Engineer_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft-AZ--900_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-Associate_Data_Practitioner-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Certified-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL - Udemy](https://img.shields.io/badge/SQL-Certified-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
